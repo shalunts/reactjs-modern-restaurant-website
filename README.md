@@ -8,3 +8,5 @@ In this project:
 - Perfectly placed media queries for satisfactory responsiveness covering almost all devices
 
 Based on JavaScript Mastery projects.
+
+https://react-modern-restaurant.netlify.app/
